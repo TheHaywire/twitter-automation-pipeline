@@ -2,6 +2,9 @@
 
 A sophisticated, enterprise-grade Twitter automation system that generates and posts high-quality, engaging tweets using AI agents. This system is designed for businesses, content creators, and social media managers who want to maintain an active, engaging Twitter presence with minimal manual effort.
 
+<img width="798" height="791" alt="Screenshot 2025-07-12 at 12 37 59 PM" src="https://github.com/user-attachments/assets/be4b40f8-095f-4c39-9ca5-ecc42d86b63c" />
+
+
 ## 🚀 Quick Start
 
 ### For Non-Technical Users

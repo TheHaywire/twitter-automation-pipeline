@@ -243,10 +243,10 @@ Total Time: "65 seconds"
 ### **Successful Environment Setup**
 ```bash
 # .env file (sanitized)
-X_CLIENT_ID=VDd0WE8zOENHMmtaODV2VVgyMEU6MTpjaQ
-X_CLIENT_SECRET=ZvKiHMKmMbiou1bAYN0-FHAffH-tBfLGtEBEdDxARipGx_ovtD
+X_CLIENT_ID=xxxx
+X_CLIENT_SECRET=xxxx
 X_REDIRECT_URI=http://127.0.0.1:8080/callback
-GEMINI_API_KEY=AIzaSyAC8moruq18I4lJIvRKZN5QrAtXsCwubgo
+GEMINI_API_KEY=xxx
 GEMINI_MODEL=gemini-2.5-flash
 DRY_RUN=false
 SCHEDULE_TIMES=09:00,15:00,21:00

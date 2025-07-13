@@ -107,8 +107,8 @@ Successfully installed tweepy-4.14.0 google-generativeai-0.3.2 python-dotenv-1.0
 
 3. **Get OAuth2 Credentials**
    ```
-   🔑 Client ID: VDd0WE8zOENHMmtaODV2VVgyMEU6MTpjaQ
-   🔑 Client Secret: ZvKiHMKmMbiou1bAYN0-FHAffH-tBfLGtEBEdDxARipGx_ovtD
+   🔑 Client ID: xxx
+   🔑 Client Secret: xxx
    🔗 Redirect URI: http://127.0.0.1:8080/callback
    ```
 
@@ -121,7 +121,7 @@ Successfully installed tweepy-4.14.0 google-generativeai-0.3.2 python-dotenv-1.0
 
 2. **Create API Key**
    ```
-   🔑 API Key: AIzaSyAC8moruq18I4lJIvRKZN5QrAtXsCwubgo
+   🔑 API Key: xxxx
    ```
 
 ### **Step 4: Configure Environment**
